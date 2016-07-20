@@ -107,6 +107,7 @@ ul.menu > li > a {
 	padding: 5px;
 	color: white;
 	text-decoration: none;
+	height: 18px;
 }
 .first a {
 	margin-left:40px;
